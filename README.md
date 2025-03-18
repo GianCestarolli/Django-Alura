@@ -9,3 +9,6 @@ Considerado um "framework para perfeccionistas que possuem prazos", Podemos perp
 - Escalabilidade
 - Administração automática
 - Interação facilitada com bancos de dados relacionais
+  ## Comandos:
+  - "django-admin startproject setup ."
+  - "python manage.py runserver"
